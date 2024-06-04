@@ -1,2 +1,0 @@
-# salescore
- salescore project
